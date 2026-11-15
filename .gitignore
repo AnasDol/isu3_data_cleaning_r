@@ -1,0 +1,13 @@
+# RStudio
+.Rproj.user/
+*.Rproj.user/
+
+# История сессий R
+.Rhistory
+.Rapp.history
+.RData
+.Renviron
+
+# Локальные временные файлы
+*~
+~$*
